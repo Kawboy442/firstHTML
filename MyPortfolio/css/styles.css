@@ -63,7 +63,7 @@ header {
     margin-right: auto;
 }
 
-.works h1 {
+.works>h1 {
     font-weight: normal;
     font-size: 24px;
     text-align: center;
