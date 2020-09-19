@@ -78,3 +78,7 @@ header {
 .works>section>h1 {
     font-weight: normal;
 }
+
+.works p {
+    line-height: 1.8;
+}
