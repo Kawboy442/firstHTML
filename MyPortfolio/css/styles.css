@@ -56,3 +56,9 @@ header {
 .info ul li {
     margin-right: 8px;
 }
+
+.works {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
