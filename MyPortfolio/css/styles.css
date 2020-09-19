@@ -2,3 +2,7 @@ body {
     color: #333;
     font-family: Verdana, sans-serif;
 }
+
+header {
+    background-color: #efefef;
+}
