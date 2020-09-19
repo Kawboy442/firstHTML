@@ -38,3 +38,12 @@ header {
     font-style: 24px;
     margin: 0;
 }
+
+.info p {
+    margin: 0;
+}
+
+.info ul {
+    margin: 0;
+    padding: 0;
+}
