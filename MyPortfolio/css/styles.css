@@ -11,4 +11,6 @@ header {
 .container {
     background-color: pink;
     width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
