@@ -67,4 +67,10 @@ header {
     font-weight: normal;
     font-size: 24px;
     text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.works>section {
+    margin-bottom: 60px;
 }
