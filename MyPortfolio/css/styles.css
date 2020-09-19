@@ -8,6 +8,10 @@ header {
     background-color: #efefef;
 }
 
+.icon img {
+    border-radius: 20px;
+}
+
 .container {
     background-color: pink;
     width: 400px;
